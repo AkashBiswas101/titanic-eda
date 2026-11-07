@@ -41,4 +41,4 @@ Build a Logistic Regression model on this data to predict passenger survival.
 
 ## Author
 
-Akash | GitHub: add your username here
+Akash Biswas | GitHub: AkashBiswas101
